@@ -1,0 +1,44 @@
+#button1{
+   border: none;
+   border-radius: 6px;
+   height: 40px;
+   width: 100px;
+   margin-left: 5px;
+}
+#button2{
+   border: none;
+   border-radius: 6px;
+   height: 45px;
+   width: 150px;
+}
+#button3{
+   border: none;
+   border-radius: 6px;
+   height: 45px;
+   width: 150px;
+   background-color: #1B86DB;
+   color: white;
+   margin-top: 15px;
+}
+.nav-item:hover{
+color: #1B86DB;
+}
+/* .text1{
+   margin-left: 20px;
+   margin-top: 120px;
+} */
+.div1{
+   height: 170px;
+   width: 400px;
+   border: none;
+   border: solid white 2px;
+   background-color: #EDF0F5;
+}
+.div1:hover{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+@media(max-width:800px){
+   #responsive{
+      display: block important!;
+   }
+}
